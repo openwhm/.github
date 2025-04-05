@@ -1,4 +1,4 @@
-<p align="center"><a href="https://openwhm.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/206311643?s=200&v=4" width="400"></a></p>
+<p align="center"><a href="https://openwhm.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/206311643?s=200&v=4" width="50"></a></p>
 
 ## About openWHM
 
